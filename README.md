@@ -1,5 +1,5 @@
 # Small-Projects--Complete
-This is a small collection of small projects some of my friends I have been working on over the years, the versions included here are complete builds, but may be outdated.
+This is a collection of small projects some of my friends I have been working on over the years, the versions included here are complete builds, but may be outdated.
 
 Currently included:
 
