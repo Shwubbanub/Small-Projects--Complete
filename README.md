@@ -3,7 +3,7 @@ This is a collection of small projects some of my friends I have been working on
 
 Currently included:
 
-  **Seb**
+  **Shwub**
   - "Weevil", a lightweight and simple encryption/decryption tool for all plaintext applications. UPDATE PENDING
   - "Growth", an **extremely** simplified fungal growth simulator, user direction is available with the exe package. NO UPDATES PLANNED
   - "BookOfBooks", a quick and easy tool with some bespoke input methods for categorising, recording, and ranking books. NO UPDATES PLANNED
